@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-""" define a _hash_password method 
+""" define a _hash_password method
 """
 
 from db import DB
